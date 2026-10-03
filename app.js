@@ -1,20 +1,18 @@
 const AUTO_PICKS_URL = "./data/auto-picks.json";
 const AUTO_PICKS_MAX_AGE_MS = 30 * 24 * 60 * 60 * 1000;
 const HERO_BACKGROUNDS = [
-  "./assets/deepsea-background.webp",
-  "./assets/hero-ocean-01.webp",
-  "./assets/hero-ocean-02.webp",
-  "./assets/hero-ocean-03.webp",
-  "./assets/hero-ocean-04.webp",
-  "./assets/hero-ocean-05.webp",
-  "./assets/hero-ocean-06.webp",
-  "./assets/hero-ocean-07.webp",
-  "./assets/hero-ocean-08.webp",
-  "./assets/hero-ocean-09.webp",
-  "./assets/hero-ocean-10.webp",
-  "./assets/hero-ocean-11.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-01.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-02.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-03.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-04.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-05.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-06.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-07.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-08.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-09.webp",
+  "./assets/article-2026-10-03-my-one-and-only-love-10.webp",
 ];
-const HERO_BACKGROUND_INTERVAL_MS = 12_000;
+const HERO_BACKGROUND_INTERVAL_MS = 24_000;
 
 const fallbackSongs = {
   cosmosNoOne: {

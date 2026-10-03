@@ -1,12 +1,12 @@
 {
   "name": "Fantasy Tune",
   "short_name": "Fantasy Tune",
-  "description": "每日不重複歌單、工作背景樂與療癒聲景，一鍵直接播放。",
+  "description": "冬夜爵士、每日歌單與療癒聲景，為冷冽夜色留一盞暖燈。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f8fdff",
-  "theme_color": "#f8fdff",
+  "background_color": "#08121e",
+  "theme_color": "#08121e",
   "orientation": "portrait-primary",
   "icons": [
     {
